@@ -2,7 +2,7 @@
 
 # USE DART VERSION 3.2.2 FOR USING THIS PROJECT BECAUSE TENSORFLOW IS REQUESTION OLD VERSION OF DART. 
 # THIS APP IS CAPABLE OF DETECTING 1000 DIFFERENT TYPES OF OBJECTS. You can find this objects at
-#
+# https://github.com/TahaErr/AI_App_Jam_61/blob/main/assets/objects_mobilenet.tflite
 ![App Logo](android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 ## Overview
