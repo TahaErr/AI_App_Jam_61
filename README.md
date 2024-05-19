@@ -1,6 +1,6 @@
 # Mom, Dad What Is That?
 
-![App Logo]([/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png))
+![App Logo]([main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png))
 
 ## Overview
 
