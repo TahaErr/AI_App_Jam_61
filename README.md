@@ -13,6 +13,10 @@
 - **Bilingual Support**: Supports both English and Turkish languages for audio descriptions.
 - **User-Friendly Interface**: Designed for ease of use by children and visually impaired individuals.
 
+## YOUTUBE VIDEO
+
+## APK LINK 
+
 ## Screenshots
 ![Screenshot 1](assets/1.jpeg)
 ![Screenshot 2](assets/2.jpeg)
