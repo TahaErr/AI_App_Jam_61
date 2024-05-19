@@ -15,8 +15,8 @@
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](assets/WhatsApp Image 2024-05-19 at 21.07.03 (1).jpeg)
+![Screenshot 2](assets/WhatsApp Image 2024-05-19 at 21.07.03 (2).jpeg)
 
 ## Installation
 
