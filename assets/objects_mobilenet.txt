@@ -1,0 +1,1001 @@
+background
+tench, Tinca tinca: A freshwater fish known for its olive-green coloration and preference for slow-moving waters, often found in Europe and Asia.
+goldfish, Carassius auratus: A small, ornamental fish commonly found in aquariums, known for its bright colors and adaptability to various environments.
+great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias: A large predatory shark known for its size, power, and status as an apex predator in ocean ecosystems.
+tiger shark, Galeocerdo cuvieri: A large, aggressive shark recognized by its distinctive tiger-like stripes and wide diet, including marine and terrestrial animals.
+hammerhead, hammerhead shark: A shark known for its distinctive hammer-shaped head, which provides enhanced sensory capabilities and maneuverability.
+electric ray, crampfish, numbfish, torpedo: A group of rays capable of generating electric shocks for hunting and self-defense, found in warm and temperate seas.
+stingray: A flat-bodied ray with a long, whip-like tail often equipped with venomous spines used for defense, found in both marine and freshwater environments.
+cock: A male chicken, known for its bright plumage and crowing, commonly kept as livestock.
+hen: A female chicken, typically kept for egg production, known for its nurturing behavior towards chicks.
+ostrich, Struthio camelus: The world's largest bird, flightless and known for its long neck and legs, native to Africa and capable of running at high speeds.
+brambling, Fringilla montifringilla: A small passerine bird found in Europe and Asia, known for its striking orange breast and migratory patterns.
+goldfinch, Carduelis carduelis: A small songbird with bright yellow and black plumage, often found in gardens and woodlands, known for its melodic song.
+house finch, linnet, Carpodacus mexicanus: A small bird commonly found in North America, recognized by its red head and breast, and its adaptability to urban environments.
+junco, snowbird: A small, sparrow-like bird known for its distinctive dark and white plumage, often seen in North America during the winter months.
+indigo bunting, indigo finch, indigo bird, Passerina cyanea: A small songbird known for its vibrant blue plumage in males, commonly found in North America.
+robin, American robin, Turdus migratorius: A migratory songbird native to North America, recognized by its orange-red breast and melodious singing.
+bulbul: A family of medium-sized songbirds found in tropical regions, known for their varied and melodious songs, with species found in Africa, Asia, and the Middle East.
+jay: A colorful bird from the crow family, known for its intelligence and loud calls, found in various regions including Europe, Asia, and North America.
+magpie: A member of the crow family, known for its black and white plumage, intelligence, and often bold and curious nature, found across Europe, Asia, and North America.
+chickadee: A small, non-migratory songbird with distinctive black and white plumage, known for its cheerful "chick-a-dee-dee-dee" call.
+water ouzel, dipper: A small, stout bird known for its unique ability to dive and walk underwater in search of food, commonly found in fast-flowing streams.
+kite: A bird of prey with long wings and a forked tail, known for its graceful soaring flight, often seen hunting for small mammals and insects.
+bald eagle, American eagle, Haliaeetus leucocephalus: A large bird of prey native to North America, recognized by its white head and tail, and symbolic as the national bird of the United States.
+vulture: A scavenging bird of prey known for its bald head and keen sense of smell, often seen soaring high as it searches for carrion.
+great grey owl, great gray owl, Strix nebulosa: A large owl with distinctive facial discs and striking grey plumage, known for its silent flight and hunting skills in dense forests.
+European fire salamander, Salamandra salamandra: A brightly colored amphibian with black and yellow markings, found in Europe and known for its toxic skin secretions.
+common newt, Triturus vulgaris: A small amphibian found in Europe and Asia, known for its smooth skin and ability to regenerate lost limbs.
+eft: The terrestrial juvenile stage of a newt, characterized by its bright orange or red coloration and rough skin.
+spotted salamander, Ambystoma maculatum: A large, black amphibian with bright yellow or orange spots, commonly found in moist, wooded areas of North America.
+axolotl, mud puppy, Ambystoma mexicanum: An aquatic salamander known for its neotenic features, retaining its larval form into adulthood, and remarkable regenerative abilities.
+bullfrog, Rana catesbeiana: A large, robust frog native to North America, known for its deep, resonant croak and voracious appetite.
+tree frog, tree-frog: A small, arboreal frog known for its adhesive toe pads, which allow it to climb smooth surfaces and foliage.
+tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui: A primitive frog with a distinctive tail-like structure in males, found in fast-flowing streams in North America.
+loggerhead, loggerhead turtle, Caretta caretta: A large marine turtle known for its powerful jaws and reddish-brown carapace, often found in warm coastal waters.
+leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea: The largest marine turtle, recognized by its flexible, leathery shell and long-distance migratory behavior.
+mud turtle: A small, semi-aquatic turtle found in North and South America, known for its ability to survive in both aquatic and terrestrial environments.
+terrapin: A freshwater turtle often found in brackish waters, known for its diamond-shaped shell patterns and adaptability to various habitats.
+box turtle, box tortoise: A terrestrial turtle with a high-domed shell and hinged plastron, allowing it to completely enclose itself for protection.
+banded gecko: A small, nocturnal lizard known for its distinctive bands of color and preference for arid habitats.
+common iguana, iguana, Iguana iguana: A large, arboreal lizard native to Central and South America, known for its vibrant green coloration and herbivorous diet.
+American chameleon, anole, Anolis carolinensis: A small lizard capable of changing color from green to brown, commonly found in the southeastern United States.
+whiptail, whiptail lizard: A fast, slender lizard known for its long, whip-like tail and parthenogenetic reproduction in some species.
+agama: A robust, colorful lizard found in Africa and Asia, known for its ability to change color and perform push-up displays as territorial behavior.
+frilled lizard, Chlamydosaurus kingi: A lizard known for its large, extendable frill around its neck, which it displays when threatened, native to Australia and New Guinea.
+alligator lizard: A lizard with a long, flexible body and short limbs, found in North and Central America, known for its powerful bite.
+Gila monster, Heloderma suspectum: A venomous lizard native to the southwestern United States and northwestern Mexico, recognized by its black and pink or orange mottled skin.
+green lizard, Lacerta viridis: A large, bright green lizard found in Europe, known for its active hunting behavior and preference for sunny habitats.
+African chameleon, Chamaeleo chamaeleon: A chameleon native to Africa, known for its ability to change color, independently move its eyes, and extend its long tongue to catch prey.
+Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis: The world's largest lizard, native to Indonesia, known for its powerful bite and venomous saliva.
+African crocodile, Nile crocodile, Crocodylus niloticus: A large, aggressive reptile found in freshwater habitats throughout Africa, known for its powerful jaws and hunting prowess.
+American alligator, Alligator mississipiensis: A large reptile native to the southeastern United States, known for its broad snout and ability to live in freshwater and brackish habitats.
+triceratops: A large, herbivorous dinosaur characterized by its three horns and large bony frill, which lived during the late Cretaceous period.
+thunder snake, worm snake, Carphophis amoenus: A small, burrowing snake found in the southeastern United States, known for its smooth, glossy scales and secretive nature.
+ringneck snake, ring-necked snake, ring snake: A small, slender snake with a distinctive ring around its neck, found in North America and known for its mild venom.
+hognose snake, puff adder, sand viper: A snake known for its upturned snout and dramatic bluffing behavior, including playing dead when threatened.
+green snake, grass snake: A common name for several species of non-venomous, slender, green-colored snakes found in grassy habitats.
+king snake, kingsnake: A group of non-venomous snakes known for their ability to constrict and eat other snakes, including venomous species.
+garter snake, grass snake: A common, non-venomous snake found in North America, known for its adaptability to various habitats and distinctive striped pattern.
+water snake: A group of non-venomous snakes found in or near water bodies, known for their swimming abilities and varied diet.
+vine snake: A slender, arboreal snake known for its green or brown coloration and ability to blend into its vine-like surroundings.
+night snake, Hypsiglena torquata: A small, nocturnal snake found in the southwestern United States and Mexico, known for its mild venom and secretive nature.
+boa constrictor, Constrictor constrictor: A large, non-venomous snake native to the Americas, known for its powerful constriction method of subduing prey.
+rock python, rock snake, Python sebae: A large, powerful snake found in sub-Saharan Africa, known for its impressive size and strength.
+Indian cobra, Naja naja: A highly venomous snake native to the Indian subcontinent, known for its hood and distinctive "spectacle" markings.
+green mamba: A highly venomous snake found in East Africa, known for its vibrant green coloration and arboreal habits.
+sea snake: A group of highly venomous, aquatic snakes found in warm coastal waters, known for their paddle-like tails and adapted to a marine environment.
+horned viper, cerastes, sand viper, horned asp, Cerastes cornutus: A venomous snake found in North Africa and the Middle East, known for the horn-like structures above its eyes.
+diamondback, diamondback rattlesnake, Crotalus adamanteus: A large, venomous rattlesnake found in the southeastern United States, known for its distinctive diamond-shaped markings.
+sidewinder, horned rattlesnake, Crotalus cerastes: A small, venomous rattlesnake known for its unique sideways movement and horn-like scales above its eyes.
+trilobite: An extinct marine arthropod with a segmented body and exoskeleton, known from fossil records and found in ancient seas worldwide.
+harvestman, daddy longlegs, Phalangium opilio: An arachnid with long, thin legs and a small, rounded body, often found in moist environments.
+scorpion: An arachnid with a segmented body, pincers, and a venomous stinger at the end of its tail, found in various habitats worldwide.
+black and gold garden spider, Argiope aurantia: A large, colorful spider known for its intricate web patterns and distinctive black and yellow markings.
+barn spider, Araneus cavaticus: A common orb-weaving spider found in barns and other structures, known for its large, circular webs.
+garden spider, Aranea diademata: A large orb-weaving spider known for its distinctive white cross pattern on its abdomen, commonly found in gardens and woodlands.
+black widow, Latrodectus mactans: A highly venomous spider known for its shiny black body and red hourglass marking on its abdomen.
+tarantula: A large, hairy spider known for its intimidating appearance and ability to capture and eat small vertebrates.
+wolf spider, hunting spider: A fast-moving spider known for its hunting prowess and lack of web-building, often found in various terrestrial habitats.
+tick: A small, blood-sucking arachnid known for its role as a parasite and vector for various diseases.
+centipede: A multi-legged arthropod known for its venomous front claws and ability to move quickly through soil and leaf litter.
+black grouse: A game bird found in Europe and Asia, known for its distinctive black plumage and elaborate courtship displays.
+ptarmigan: A small, ground-dwelling bird found in Arctic and sub-Arctic regions, known for its seasonal plumage changes from brown to white.
+ruffed grouse, partridge, Bonasa umbellus: A game bird found in North America, known for its ruffed neck feathers and drumming display during mating season.
+prairie chicken, prairie grouse, prairie fowl: A ground-dwelling bird found in North American grasslands, known for its booming calls and elaborate mating dances.
+peacock: A large, colorful bird known for the male's extravagant tail feathers and courtship displays, native to South Asia.
+quail: A small, ground-dwelling game bird known for its distinctive call and rapid, low flight, commonly found in grasslands and agricultural areas.
+partridge: A small, plump game bird known for its distinctive plumage and ground-dwelling habits, often found in Europe and Asia.
+African grey, African gray, Psittacus erithacus: A highly intelligent parrot known for its exceptional ability to mimic human speech, native to West and Central Africa.
+macaw: A large, colorful parrot found in Central and South America, known for its bright plumage and strong beak.
+sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita: A large, white parrot with a distinctive yellow crest, native to Australia and known for its loud calls.
+lorikeet: A small, brightly colored parrot known for its brush-tipped tongue adapted for feeding on nectar and pollen, found in Australia and the South Pacific.
+coucal: A large, non-parasitic cuckoo found in Africa, Asia, and Australia, known for its distinctive calls and ground-dwelling habits.
+bee eater: A colorful bird known for its aerial hunting of bees and other insects, found in Africa, Europe, and Asia.
+hornbill: A large bird with a distinctive, often colorful bill, found in tropical and subtropical regions of Africa and Asia.
+hummingbird: A small, vibrant bird known for its rapid wing beats and ability to hover while feeding on nectar from flowers.
+jacamar: A brightly colored bird with a long bill, found in tropical forests of Central and South America, known for its insect-catching abilities.
+toucan: A bird with a large, colorful bill and vibrant plumage, found in the tropical forests of Central and South America.
+drake: A male duck, often distinguished by its brighter plumage compared to the female.
+red-breasted merganser, Mergus serrator: A diving duck known for its slender, serrated bill and striking red breast, found in freshwater and coastal habitats.
+goose: A large, migratory bird known for its long neck, webbed feet, and loud honking calls, commonly found in wetlands and open water.
+black swan, Cygnus atratus: A large waterbird native to Australia, known for its entirely black plumage and red bill.
+tusker: A large male elephant with prominent tusks, often used to refer to particularly old or dominant males.
+echidna, spiny anteater, anteater: A small, spiny monotreme native to Australia and New Guinea, known for its long snout and tongue used for catching ants and termites.
+platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus: A unique, egg-laying mammal with a duck-like bill, webbed feet, and the ability to detect prey using electroreception, native to Australia.
+wallaby, brush kangaroo: A small to medium-sized marsupial native to Australia and New Guinea, known for its strong hind legs and hopping movement.
+koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus: A tree-dwelling marsupial native to Australia, known for its diet of eucalyptus leaves and slow, sleepy demeanor.
+wombat: A burrowing marsupial native to Australia, known for its stout, muscular build and distinctive cube-shaped droppings.
+jellyfish: A free-swimming marine invertebrate with a gelatinous, umbrella-shaped body and tentacles, known for its stinging cells.
+sea anemone, anemone: A marine invertebrate with a soft, cylindrical body and tentacles, known for its symbiotic relationship with clownfish and its stinging capabilities to capture prey.
+brain coral: A type of coral known for its grooved surface resembling a human brain, commonly found in shallow warm-water reefs.
+flatworm, platyhelminth: A group of simple, unsegmented worms known for their flattened bodies and ability to regenerate lost body parts.
+nematode, nematode worm, roundworm: A diverse group of round-bodied worms found in various environments, many of which are parasitic.
+conch: A large marine snail known for its spiral shell, often found in warm tropical waters.
+snail: A mollusk with a coiled shell and a distinct head with tentacles, found in a variety of environments from terrestrial to aquatic.
+slug: A mollusk similar to a snail but without a shell, known for its slimy body and slow movement.
+sea slug, nudibranch: A colorful marine mollusk without a shell, known for its striking appearance and often toxic properties.
+chiton, coat-of-mail shell, sea cradle, polyplacophore: A marine mollusk with an elongated body and a shell composed of eight overlapping plates.
+chambered nautilus, pearly nautilus, nautilus: A marine cephalopod with a coiled, chambered shell, known for its ability to regulate buoyancy.
+Dungeness crab, Cancer magister: A large edible crab found along the Pacific coast of North America, prized for its sweet, tender meat.
+rock crab, Cancer irroratus: A type of crab found along the Atlantic coast of North America, known for its hard, mottled shell.
+fiddler crab: A small crab known for the male's oversized claw, used in courtship displays and territorial disputes.
+king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica: A large, commercially valuable crab found in the North Pacific, known for its impressive size and delicious meat.
+American lobster, Northern lobster, Maine lobster, Homarus americanus: A large, commercially important crustacean found in the North Atlantic, known for its claws and sweet, tender meat.
+spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish: A lobster without large claws, found in warmer waters, known for its spiny exoskeleton.
+crayfish, crawfish, crawdad, crawdaddy: A freshwater crustacean resembling a small lobster, found in streams and rivers.
+hermit crab: A crab known for inhabiting empty mollusk shells, using them for protection as they grow.
+isopod: A diverse group of crustaceans with segmented bodies and flattened shapes, found in marine, freshwater, and terrestrial environments.
+white stork, Ciconia ciconia: A large wading bird known for its white plumage and black wing feathers, often associated with folklore about delivering babies.
+black stork, Ciconia nigra: A large wading bird with black plumage and white underparts, found in parts of Europe, Asia, and Africa.
+spoonbill: A wading bird with a long, flat bill that it uses to sift through mud for food, found in various regions worldwide.
+flamingo: A tall wading bird known for its pink or red plumage and distinctive downward-bent bill, found in tropical and subtropical regions.
+little blue heron, Egretta caerulea: A small heron with slate-blue plumage, found in wetlands and coastal areas of the Americas.
+American egret, great white heron, Egretta albus: A large white heron found in wetlands and coastal areas of the Americas, known for its elegant appearance and hunting prowess.
+bittern: A secretive wading bird with brown, streaked plumage, known for its booming call, found in marshes and wetlands.
+crane: A tall, long-legged bird known for its graceful flight and elaborate courtship dances, found in various regions worldwide.
+limpkin, Aramus pictus: A large wading bird found in wetlands of the Americas, known for its distinctive wailing call and preference for apple snails.
+European gallinule, Porphyrio porphyrio: A brightly colored wading bird with blue plumage and red legs, found in wetlands of Europe and Asia.
+American coot, marsh hen, mud hen, water hen, Fulica americana: A small, black waterbird with a white bill and frontal shield, found in freshwater habitats across North America.
+bustard: A large, ground-dwelling bird found in open grasslands and steppes, known for its strong flight and elaborate courtship displays.
+ruddy turnstone, Arenaria interpres: A small, stout shorebird known for its striking plumage and habit of turning over stones to find food.
+red-backed sandpiper, dunlin, Erolia alpina: A small shorebird with a distinctive black belly patch in breeding plumage, found in Arctic and sub-Arctic regions.
+redshank, Tringa totanus: A medium-sized wading bird with red legs and a distinctive "teu-teu" call, found in wetlands and coastal areas of Europe and Asia.
+dowitcher: A medium-sized shorebird with a long bill, known for its probing feeding behavior in mudflats and wetlands.
+oystercatcher, oyster catcher: A robust shorebird with a long, red bill used for prying open shellfish, found in coastal regions worldwide.
+pelican: A large waterbird with a distinctive throat pouch used for catching fish, found in coastal and inland waters.
+king penguin, Aptenodytes patagonica: A large penguin species known for its striking orange and yellow plumage, found on sub-Antarctic islands.
+albatross, mollymawk: A large seabird known for its impressive wingspan and ability to glide long distances over the ocean, found in the Southern Hemisphere.
+grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus: A large baleen whale known for its grey mottled skin and long migrations, found in the North Pacific.
+killer whale, killer, orca, grampus, sea wolf, Orcinus orca: A large, highly intelligent marine mammal known for its black and white coloration and complex social structures, found in oceans worldwide.
+dugong, Dugong dugon: A large marine mammal related to the manatee, found in warm coastal waters and known for its seagrass diet.
+sea lion: A large, social marine mammal with external ear flaps and strong flippers, found in coastal regions of the Pacific Ocean.
+Chihuahua: A small dog breed known for its large ears and expressive eyes, originating from Mexico.
+Japanese spaniel: A small, elegant dog breed known for its distinctive flattened face and silky coat, originating from Japan.
+Maltese dog, Maltese terrier, Maltese: A small dog breed known for its long, white, silky hair and gentle disposition, originating from the Mediterranean.
+Pekinese, Pekingese, Peke: A small dog breed with a distinctive pushed-in face and long coat, originating from China.
+Shih-Tzu: A small dog breed with a long, flowing coat and friendly nature, originating from Tibet.
+Blenheim spaniel: A small dog breed known for its distinctive chestnut and white coloring, part of the Cavalier King Charles Spaniel group.
+papillon: A small dog breed known for its large, butterfly-like ears and lively personality, originating from France.
+toy terrier: A small, active dog breed known for its terrier-like behavior and compact size, often kept as a companion animal.
+Rhodesian ridgeback: A large dog breed known for the distinctive ridge of hair along its back, originally bred for hunting in Africa.
+Afghan hound, Afghan: A large, elegant dog breed with a long, silky coat and aloof demeanor, originating from Afghanistan.
+basset, basset hound: A short-legged dog breed with long ears and a keen sense of smell, originally bred for hunting hares.
+beagle: A small to medium-sized dog breed known for its excellent sense of smell and friendly nature, often used as a detection dog.
+bloodhound, sleuthhound: A large dog breed known for its exceptional tracking abilities and distinctive droopy ears and wrinkled face.
+bluetick: A breed of coonhound known for its blue-ticked coat and excellent hunting abilities, often used for tracking game.
+black-and-tan coonhound: A large dog breed known for its black and tan coloring and hunting skills, especially for raccoons.
+Walker hound, Walker foxhound: A breed of foxhound known for its speed and endurance, often used in hunting and tracking.
+English foxhound: A large dog breed traditionally used in fox hunting, known for its stamina and strong scenting ability.
+redbone: A breed of coonhound known for its reddish-brown coat and excellent hunting abilities.
+borzoi, Russian wolfhound: A large, elegant dog breed known for its long, silky coat and speed, originally bred for hunting wolves in Russia.
+Irish wolfhound: A large dog breed known for its imposing size and gentle nature, originally bred for hunting wolves in Ireland.
+Italian greyhound: A small, elegant dog breed known for its slender build and speed, often kept as a companion animal.
+whippet: A medium-sized dog breed known for its speed and sleek appearance, often used in racing and hunting.
+Ibizan hound, Ibizan Podenco: A slender, athletic dog breed known for its hunting skills and large, upright ears, originating from the Balearic Islands.
+Norwegian elkhound, elkhound: A medium-sized dog breed known for its thick, gray coat and hunting abilities, especially for elk and other large game.
+otterhound, otter hound: A large dog breed known for its rough coat and excellent swimming abilities, originally bred for hunting otters.
+Saluki, gazelle hound: A large, elegant dog breed known for its speed and endurance, often used for hunting in the Middle East.
+Scottish deerhound, deerhound: A large, wiry-haired dog breed known for its hunting abilities and gentle nature, originally bred for hunting deer in Scotland.
+Weimaraner: A large dog breed known for its sleek, gray coat and hunting abilities, often used for tracking and retrieving game.
+Staffordshire bullterrier, Staffordshire bull terrier: A medium-sized dog breed known for its muscular build and friendly nature, originally bred for bull-baiting.
+American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier: A medium-sized dog breed known for its strength and loyalty, often used as a working dog.
+Bedlington terrier: A small dog breed known for its distinctive lamb-like appearance and lively nature, originally bred for hunting vermin.
+Border terrier: A small, wiry-haired dog breed known for its hunting skills and friendly nature, often kept as a companion animal.
+Kerry blue terrier: A medium-sized dog breed known for its soft, blue-gray coat and versatile abilities, originally bred for hunting and herding.
+Irish terrier: A medium-sized dog breed known for its wiry, red coat and bold nature, often used for hunting and guarding.
+Norfolk terrier: A small dog breed known for its friendly nature and wiry coat, often kept as a companion animal.
+Norwich terrier: A small dog breed known for its spirited personality and wiry coat, originally bred for hunting vermin.
+Yorkshire terrier: A small dog breed known for its long, silky coat and lively nature, often kept as a companion animal.
+wire-haired fox terrier: A small dog breed known for its wiry coat and energetic personality, originally bred for hunting foxes.
+Lakeland terrier: A small, wiry-haired dog breed known for its hunting abilities and friendly nature, originating from the Lake District in England.
+Sealyham terrier, Sealyham: A small dog breed known for its distinctive white coat and lively personality, originally bred for hunting vermin.
+Airedale, Airedale terrier: A large dog breed known for its wiry coat and versatile abilities, often used for hunting and as a working dog.
+cairn, cairn terrier: A small dog breed known for its rough coat and lively personality, originally bred for hunting vermin in Scotland.
+Australian terrier: A small, wiry-haired dog breed known for its spirited nature and hunting abilities, originally bred in Australia.
+Dandie Dinmont, Dandie Dinmont terrier: A small dog breed known for its distinctive topknot of hair and lively personality, originally bred for hunting vermin.
+Boston bull, Boston terrier: A small dog breed known for its tuxedo-like markings and friendly nature, often kept as a companion animal.
+miniature schnauzer: A small dog breed known for its distinctive beard and eyebrows, originally bred for hunting vermin.
+giant schnauzer: A large dog breed known for its distinctive beard and eyebrows, often used as a working dog.
+standard schnauzer: A medium-sized dog breed known for its distinctive beard and eyebrows, originally bred for hunting vermin.
+Scotch terrier, Scottish terrier, Scottie: A small dog breed known for its distinctive beard and lively personality, originally bred for hunting vermin in Scotland.
+Tibetan terrier, chrysanthemum dog: A medium-sized dog breed known for its long, flowing coat and friendly nature, originally bred in Tibet.
+silky terrier, Sydney silky: A small dog breed known for its long, silky coat and lively personality, originally bred in Australia.
+soft-coated wheaten terrier: A medium-sized dog breed known for its soft, wheaten-colored coat and friendly nature, originally bred in Ireland.
+West Highland white terrier: A small dog breed known for its distinctive white coat and lively personality, often kept as a companion animal.
+Lhasa, Lhasa apso: A small dog breed known for its long, flowing coat and friendly nature, originally bred in Tibet.
+flat-coated retriever: A large dog breed known for its friendly nature and glossy black coat, often used for hunting and retrieving game.
+curly-coated retriever: A large dog breed known for its distinctive curly coat and hunting abilities, often used for retrieving game.
+golden retriever: A large dog breed known for its friendly nature and golden coat, often used as a guide dog and in search-and-rescue operations.
+Labrador retriever: A large dog breed known for its friendly nature and versatile abilities, often used as a guide dog and in search-and-rescue operations.
+Chesapeake Bay retriever: A large dog breed known for its hunting abilities and water-resistant coat, often used for retrieving game in water.
+German short-haired pointer: A large dog breed known for its hunting abilities and friendly nature, often used for tracking and retrieving game.
+vizsla, Hungarian pointer: A medium-sized dog breed known for its friendly nature and hunting abilities, often used for tracking and retrieving game.
+English setter: A large dog breed known for its friendly nature and hunting abilities, often used for tracking and retrieving game.
+Irish setter, red setter: A large dog breed known for its friendly nature and striking red coat, often used for hunting and retrieving game.
+Gordon setter: A large dog breed known for its friendly nature and hunting abilities, often used for tracking and retrieving game.
+Brittany spaniel: A medium-sized dog breed known for its friendly nature and hunting abilities, often used for tracking and retrieving game.
+clumber, clumber spaniel: A large dog breed known for its friendly nature and hunting abilities, often used for tracking and retrieving game.
+English springer, English springer spaniel: A medium-sized dog breed known for its friendly nature and hunting abilities, often used for tracking and retrieving game.
+Welsh springer spaniel: A medium-sized dog breed known for its friendly nature and hunting abilities, often used for tracking and retrieving game.
+cocker spaniel, English cocker spaniel, cocker: A small dog breed known for its friendly nature and hunting abilities, often used for tracking and retrieving game.
+Sussex spaniel: A medium-sized dog breed known for its friendly nature and hunting abilities, often used for tracking and retrieving game.
+Irish water spaniel: A large dog breed known for its friendly nature and hunting abilities, often used for retrieving game in water.
+kuvasz: A large dog breed known for its protective nature and white coat, originally bred for guarding livestock in Hungary.
+schipperke: A small dog breed known for its lively personality and fox-like appearance, originally bred for herding and guarding.
+groenendael: A large dog breed known for its friendly nature and black coat, often used for herding and guarding livestock.
+malinois: A medium-sized dog breed known for its friendly nature and versatile abilities, often used for herding and as a working dog.
+briard: A large dog breed known for its friendly nature and long, flowing coat, often used for herding and guarding livestock.
+kelpie: A medium-sized dog breed known for its friendly nature and herding abilities, originally bred in Australia.
+komondor: A large dog breed known for its distinctive corded coat and protective nature, originally bred for guarding livestock in Hungary.
+Old English sheepdog, bobtail: A large dog breed known for its friendly nature and distinctive shaggy coat, often used for herding and guarding livestock.
+Shetland sheepdog, Shetland sheep dog, Shetland: A small dog breed known for its friendly nature and herding abilities, originally bred in the Shetland Islands.
+collie: A medium-sized dog breed known for its friendly nature and herding abilities, often used for herding and as a working dog.
+Border collie: A medium-sized dog breed known for its friendly nature and herding abilities, often used for herding and as a working dog.
+Bouvier des Flandres, Bouviers des Flandres: A large dog breed known for its friendly nature and herding abilities, originally bred in Belgium.
+Rottweiler: A large dog breed known for its protective nature and strength, often used for guarding and as a working dog.
+German shepherd, German shepherd dog, German police dog, alsatian: A large dog breed known for its friendly nature and versatile abilities, often used for herding, guarding, and as a working dog.
+Doberman, Doberman pinscher: A large dog breed known for its friendly nature and strength, often used for guarding and as a working dog.
+miniature pinscher: A small dog breed known for its lively personality and fox-like appearance, often kept as a companion animal.
+Greater Swiss Mountain dog: A large dog breed known for its friendly nature and strength, often used for herding and as a working dog.
+Bernese mountain dog: A large dog breed known for its friendly nature and strength, often used for herding and as a working dog.
+Appenzeller: A medium-sized dog breed known for its friendly nature and herding abilities, originally bred in Switzerland.
+EntleBucher: A small dog breed known for its friendly nature and herding abilities, originally bred in Switzerland.
+boxer: A large dog breed known for its friendly nature and strength, often used for guarding and as a working dog.
+bull mastiff: A large, powerful dog breed known for its protective nature and loyalty, originally bred for guarding estates.
+Tibetan mastiff: A large, robust dog breed known for its thick coat and protective instincts, originally bred in Tibet to guard livestock.
+French bulldog: A small, muscular dog breed with a distinctive bat-like ears and a friendly, affectionate nature.
+Great Dane: A large, elegant dog breed known for its gentle nature and impressive size, often referred to as the "gentle giant."
+Saint Bernard, St Bernard: A large, friendly dog breed known for its rescue work in the Swiss Alps and distinctive white and brown coat.
+Eskimo dog, husky: A medium to large dog breed known for its endurance and strength, often used as a sled dog in Arctic regions.
+malamute, malemute, Alaskan malamute: A large, powerful dog breed known for its strength and endurance, originally bred for hauling heavy freight as a sled dog.
+Siberian husky: A medium-sized dog breed known for its thick coat, erect triangular ears, and distinctive markings, often used as a sled dog.
+dalmatian, coach dog, carriage dog: A medium-sized dog breed known for its distinctive black or liver spotted coat and friendly nature.
+affenpinscher, monkey pinscher, monkey dog: A small dog breed known for its monkey-like facial expression and lively personality, originally bred to hunt vermin.
+basenji: A small, elegant dog breed known for its unique yodel-like vocalization and cat-like grooming habits, originally from Africa.
+pug, pug-dog: A small dog breed known for its wrinkled face, curled tail, and friendly, playful nature.
+Leonberg: A large, gentle dog breed known for its lion-like mane and friendly nature, originally bred in Germany.
+Newfoundland, Newfoundland dog: A large, gentle dog breed known for its strength and swimming abilities, often used in water rescues.
+Great Pyrenees: A large, protective dog breed known for its thick white coat and guarding abilities, originally bred to protect livestock.
+Samoyed, Samoyede: A large, friendly dog breed known for its thick white coat and smiling expression, originally bred to herd reindeer and pull sleds.
+Pomeranian: A small, fluffy dog breed known for its lively personality and fox-like face, originally bred in Pomerania.
+chow, chow chow: A medium-sized dog breed known for its thick double coat and distinctive blue-black tongue, originally from China.
+keeshond: A medium-sized dog breed known for its thick, plush coat and friendly nature, often referred to as the "Dutch barge dog."
+Brabancon griffon: A small dog breed known for its expressive face and lively personality, originally bred in Belgium.
+Pembroke, Pembroke Welsh corgi: A small dog breed known for its short legs, long body, and herding abilities, originally from Wales.
+Cardigan, Cardigan Welsh corgi: A small dog breed known for its long body, short legs, and herding abilities, originally from Wales.
+toy poodle: A small, intelligent dog breed known for its curly coat and friendly nature, often kept as a companion animal.
+miniature poodle: A medium-sized, intelligent dog breed known for its curly coat and friendly nature, often kept as a companion animal.
+standard poodle: A large, intelligent dog breed known for its curly coat and friendly nature, often used as a working dog.
+Mexican hairless: A small to medium-sized dog breed known for its lack of hair and friendly nature, originally from Mexico.
+timber wolf, grey wolf, gray wolf, Canis lupus: A large, social canid known for its strength and pack behavior, found in various regions across the Northern Hemisphere.
+white wolf, Arctic wolf, Canis lupus tundrarum: A subspecies of the gray wolf adapted to the Arctic environment, known for its white coat and pack behavior.
+red wolf, maned wolf, Canis rufus, Canis niger: A critically endangered canid native to the southeastern United States, known for its reddish fur and long legs.
+coyote, prairie wolf, brush wolf, Canis latrans: A medium-sized canid known for its adaptability and cunning nature, found throughout North and Central America.
+dingo, warrigal, warragal, Canis dingo: A wild dog found in Australia, known for its golden coat and adaptability to various environments.
+dhole, Cuon alpinus: A wild canid native to Asia, known for its pack behavior and distinctive whistling calls.
+African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus: A highly social canid known for its distinctive mottled coat and cooperative hunting strategies, found in Africa.
+hyena, hyaena: A large carnivorous mammal known for its strong jaws and scavenging habits, found in Africa and Asia.
+red fox, Vulpes vulpes: A small, adaptable canid known for its reddish fur and bushy tail, found throughout the Northern Hemisphere.
+kit fox, Vulpes macrotis: A small canid known for its large ears and adaptability to desert environments, found in North America.
+Arctic fox, white fox, Alopex lagopus: A small canid known for its thick white winter coat and adaptability to Arctic environments.
+grey fox, gray fox, Urocyon cinereoargenteus: A small canid known for its grizzled gray fur and ability to climb trees, found in North and Central America.
+tabby, tabby cat: A domestic cat with a distinctive coat pattern featuring stripes, dots, and swirls, known for its playful nature.
+tiger cat: A domestic cat with a striped coat pattern resembling that of a tiger, known for its independent nature.
+Persian cat: A long-haired domestic cat breed known for its round face, short muzzle, and luxurious coat.
+Siamese cat, Siamese: A sleek, short-haired domestic cat breed known for its striking blue eyes and vocal, social nature.
+Egyptian cat: Often refers to the Egyptian Mau, a domestic cat breed known for its spotted coat and active, agile nature.
+cougar, puma, catamount, mountain lion, painter, panther, Felis concolor: A large, solitary wildcat known for its adaptability and wide range across the Americas.
+lynx, catamount: A medium-sized wildcat known for its tufted ears and short tail, found in forests across North America, Europe, and Asia.
+leopard, Panthera pardus: A large wildcat known for its distinctive spotted coat and adaptability to various habitats across Africa and Asia.
+snow leopard, ounce, Panthera uncia: A large wildcat known for its thick fur and adaptation to mountainous regions in Central and South Asia.
+jaguar, panther, Panthera onca, Felis onca: A large wildcat known for its powerful build and distinctive rosette-patterned coat, found in the Americas.
+lion, king of beasts, Panthera leo: A large, social wildcat known for its distinctive mane and pride behavior, found in Africa and India.
+tiger, Panthera tigris: A large wildcat known for its striking orange coat with black stripes, found in various parts of Asia.
+cheetah, chetah, Acinonyx jubatus: A large wildcat known for its incredible speed and distinctive tear marks on its face, found in Africa and Iran.
+brown bear, bruin, Ursus arctos: A large, omnivorous bear known for its strength and adaptability to various habitats across the Northern Hemisphere.
+American black bear, black bear, Ursus americanus, Euarctos americanus: A medium-sized bear known for its black fur and adaptability to various habitats in North America.
+ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus: A large, carnivorous bear adapted to Arctic environments, known for its white fur and hunting of seals.
+sloth bear, Melursus ursinus, Ursus ursinus: A medium-sized bear known for its shaggy coat and specialized feeding on insects, found in the Indian subcontinent.
+mongoose: A small, agile mammal known for its ability to hunt venomous snakes, found in Africa and Asia.
+meerkat, mierkat: A small, social mammal known for its upright posture and cooperative behavior, found in southern Africa.
+tiger beetle: A fast-running beetle known for its predatory behavior and bright metallic coloration, found in various habitats worldwide.
+ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle: A small beetle known for its distinctive spotted elytra and beneficial role in controlling pest insects.
+ground beetle, carabid beetle: A large family of beetles known for their predatory behavior and shiny, often black exoskeletons.
+long-horned beetle, longicorn, longicorn beetle: A family of beetles known for their long antennae and wood-boring habits.
+leaf beetle, chrysomelid: A diverse family of beetles known for their feeding on plant leaves and often bright coloration.
+dung beetle: A beetle known for its role in breaking down and recycling animal dung, found in various habitats worldwide.
+rhinoceros beetle: A large, robust beetle known for the horn-like structures on the males, used in combat and display.
+weevil: A type of beetle known for its elongated snout and often destructive behavior as a pest of crops.
+fly: A small, flying insect known for its rapid flight and often association with decay and disease transmission.
+bee: A flying insect known for its role in pollination and production of honey and beeswax.
+ant, emmet, pismire: A small, social insect known for its complex colony behavior and ability to lift many times its own body weight.
+grasshopper, hopper: A herbivorous insect known for its powerful hind legs used for jumping and often found in grassy habitats.
+cricket: A nocturnal insect known for its chirping sound produced by rubbing its wings together, often found in grassy and wooded areas.
+walking stick, walkingstick, stick insect: A herbivorous insect known for its camouflage as sticks or leaves, found in various habitats worldwide.
+cockroach, roach: A resilient insect known for its adaptability to various environments and association with unsanitary conditions.
+mantis, mantid: A predatory insect known for its distinctive folded forelegs used to capture prey and often found in gardens and forests.
+cicada, cicala: A large, loud insect known for its distinctive mating calls and periodic emergence from underground.
+leafhopper: A small, agile insect known for its jumping ability and feeding on plant sap, often found in gardens and fields.
+lacewing, lacewing fly: An insect known for its delicate, lacy wings and beneficial role in controlling pest insects.
+dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk: A fast-flying insect known for its predatory behavior and often found near water.
+damselfly: A slender, delicate insect related to dragonflies, often found near water and known for its predatory behavior.
+admiral: A colorful butterfly known for its distinctive patterns and often found in gardens and meadows.
+ringlet, ringlet butterfly: A small, dark butterfly known for its distinctive eyespots and often found in grassy habitats.
+monarch, monarch butterfly, milkweed butterfly, Danaus plexippus: A large, orange and black butterfly known for its long migrations and dependence on milkweed plants.
+cabbage butterfly: A small, white butterfly known for its association with cabbage and other brassica plants.
+sulphur butterfly, sulfur butterfly: A brightly colored butterfly known for its yellow or orange wings, often found in gardens and meadows.
+lycaenid, lycaenid butterfly: A diverse family of small, brightly colored butterflies often associated with ants and found in various habitats worldwide.
+starfish, sea star: A marine echinoderm known for its radial symmetry and ability to regenerate lost arms, often found in coastal waters.
+sea urchin: A spiny marine echinoderm known for its spherical body and often found in rocky coastal areas.
+sea cucumber, holothurian: A marine echinoderm known for its elongated body and ability to expel its internal organs as a defense mechanism.
+wood rabbit, cottontail, cottontail rabbit: A small, wild rabbit known for its distinctive fluffy tail and often found in wooded and grassy areas.
+hare: A fast-running, long-eared mammal known for its powerful hind legs and often found in open fields and grasslands.
+Angora, Angora rabbit: A domestic rabbit breed known for its long, soft fur often used in textile production.
+hamster: A small, burrowing rodent often kept as a pet and known for its cheek pouches and nocturnal habits.
+porcupine, hedgehog: A small mammal known for its spiny quills used as a defense mechanism, found in various regions worldwide.
+fox squirrel, eastern fox squirrel, Sciurus niger: A large tree squirrel known for its reddish fur and often found in deciduous forests in North America.
+marmot: A large, burrowing rodent known for its hibernation habits and often found in mountainous regions.
+beaver: A large, semi-aquatic rodent known for its dam-building behavior and often found in rivers and streams.
+guinea pig, Cavia cobaya: A small, social rodent often kept as a pet and known for its vocalizations and docile nature.
+sorrel: A common name for a reddish-brown horse or other animals, often used to describe the coat color.
+zebra: A large, social ungulate known for its distinctive black and white striped coat, found in Africa.
+hog, pig, grunter, squealer, Sus scrofa: A domesticated or wild mammal known for its stout body and often kept for meat production.
+wild boar, boar, Sus scrofa: A large, wild pig known for its tusks and often found in forests and grasslands.
+warthog: A wild pig known for its distinctive facial warts and tusks, found in sub-Saharan Africa.
+hippopotamus, hippo, river horse, Hippopotamus amphibius: A large, semi-aquatic mammal known for its barrel-shaped body and often found in rivers and lakes in Africa.
+ox: A large domesticated bovine animal known for its strength and often used as a draft animal.
+water buffalo, water ox, Asiatic buffalo, Bubalus bubalis: A large bovine animal known for its use in agriculture and often found in Asia.
+bison: A large, shaggy-haired bovine animal known for its strength and often found in North America and Europe.
+ram, tup: A male sheep known for its curved horns and often kept for breeding purposes.
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis: A large wild sheep known for its impressive curved horns and often found in mountainous regions of North America.
+ibex, Capra ibex: A wild goat known for its impressive curved horns and often found in mountainous regions of Europe, Asia, and Africa.
+hartebeest: A large antelope known for its elongated head and often found in grasslands and savannas of Africa.
+impala, Aepyceros melampus: A medium-sized antelope known for its graceful leaps and often found in savannas and woodlands of Africa.
+gazelle: A small to medium-sized antelope known for its slender build and often found in grasslands and savannas of Africa and Asia.
+Arabian camel, dromedary, Camelus dromedarius: A large, one-humped camel known for its adaptability to desert environments and often used as a pack animal.
+llama: A large, domesticated South American mammal known for its use as a pack animal and its wool.
+weasel: A small, carnivorous mammal known for its slender body and often found in various habitats worldwide.
+mink: A small, semi-aquatic carnivorous mammal known for its luxurious fur and often found in North America and Europe.
+polecat, fitch, foulmart, foumart, Mustela putorius: A small carnivorous mammal known for its strong odor and often found in Europe and Asia.
+black-footed ferret, ferret, Mustela nigripes: A small carnivorous mammal known for its distinctive black markings and often found in North America.
+otter: A semi-aquatic carnivorous mammal known for its playful behavior and often found in rivers, lakes, and coastal areas.
+skunk, polecat, wood pussy: A small mammal known for its distinctive black and white coloring and its ability to spray a foul-smelling liquid as a defense mechanism.
+badger: A burrowing carnivorous mammal known for its distinctive striped face and often found in Europe, Asia, and North America.
+armadillo: A small, armored mammal known for its ability to roll into a ball for protection, found in the Americas.
+three-toed sloth, ai, Bradypus tridactylus: A slow-moving arboreal mammal known for its three toes and often found in the rainforests of Central and South America.
+orangutan, orang, orangutang, Pongo pygmaeus: A large arboreal ape known for its reddish-brown hair and high intelligence, found in the rainforests of Borneo and Sumatra.
+gorilla, Gorilla gorilla: The largest of the great apes, known for its strength and social behavior, found in the forests of central Africa.
+chimpanzee, chimp, Pan troglodytes: A highly intelligent great ape known for its use of tools and social behavior, found in the forests of central and west Africa.
+gibbon, Hylobates lar: A small, agile ape known for its long arms and brachiation locomotion, found in the forests of Southeast Asia.
+siamang, Hylobates syndactylus, Symphalangus syndactylus: The largest of the gibbons, known for its distinctive throat sac used for vocalization, found in the forests of Sumatra and the Malay Peninsula.
+guenon, guenon monkey: A group of small to medium-sized monkeys known for their colorful markings and social behavior, found in Africa.
+patas, hussar monkey, Erythrocebus patas: A ground-dwelling monkey known for its reddish-brown fur and fast running speed, found in the savannas of Africa.
+baboon: A large, ground-dwelling monkey known for its dog-like face and social behavior, found in the savannas and forests of Africa.
+macaque: A medium-sized monkey known for its adaptability to various environments and often found in Asia.
+langur: A group of Old World monkeys known for their long tails and often found in the forests of Asia.
+colobus, colobus monkey: A group of Old World monkeys known for their distinctive black and white fur and tree-dwelling habits, found in Africa.
+proboscis monkey, Nasalis larvatus: A large monkey known for its distinctive long nose and pot-bellied appearance, found in the forests of Borneo.
+marmoset: A small, tree-dwelling monkey known for its distinctive tufts of hair and social behavior, found in the forests of South America.
+capuchin, ringtail, Cebus capucinus: A small, intelligent monkey known for its use of tools and social behavior, found in the forests of Central and South America.
+howler monkey, howler: A large monkey known for its loud vocalizations and prehensile tail, found in the forests of Central and South America.
+titi, titi monkey: A small, tree-dwelling monkey known for its monogamous behavior and often found in the forests of South America.
+spider monkey, Ateles geoffroyi: A large monkey known for its long limbs and prehensile tail, found in the forests of Central and South America.
+squirrel monkey, Saimiri sciureus: A small, agile monkey known for its social behavior and often found in the forests of Central and South America.
+Madagascar cat, ring-tailed lemur, Lemur catta: A large lemur known for its distinctive ringed tail and social behavior, found in the forests of Madagascar.
+indri, indris, Indri indri, Indri brevicaudatus: The largest lemur, known for its loud vocalizations and tree-dwelling habits, found in the forests of Madagascar.
+Indian elephant, Elephas maximus: A large mammal known for its distinctive trunk and social behavior, found in the forests and grasslands of India and Southeast Asia.
+African elephant, Loxodonta africana: The largest land mammal known for its large ears and social behavior, found in the savannas and forests of Africa.
+lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens: A small, tree-dwelling mammal known for its reddish fur and bamboo diet, found in the forests of the Himalayas and China.
+giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca: A large mammal known for its distinctive black and white fur and bamboo diet, found in the forests of China.
+barracouta, snoek: A predatory fish known for its long, slender body and sharp teeth, found in coastal waters worldwide.
+eel: A long, snake-like fish known for its smooth, slimy skin and often found in both freshwater and marine environments.
+coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch: A species of salmon known for its silver color and found in the North Pacific Ocean.
+rock beauty, Holocanthus tricolor: A brightly colored marine fish known for its striking black, yellow, and orange coloration, found in coral reefs of the Western Atlantic.
+anemone fish: A small marine fish known for its symbiotic relationship with sea anemones, often found in coral reefs of the Indo-Pacific region.
+sturgeon: A large, ancient fish known for its bony plates and valuable roe, found in rivers and coastal waters of the Northern Hemisphere.
+gar, garfish, garpike, billfish, Lepisosteus osseus: A long, slender fish known for its elongated snout and found in freshwater habitats of North America.
+lionfish: A venomous marine fish known for its distinctive spines and striped appearance, found in coral reefs of the Indo-Pacific region.
+puffer, pufferfish, blowfish, globefish: A marine fish known for its ability to inflate its body and often containing potent toxins, found in tropical and subtropical waters.
+abacus: An ancient calculating tool consisting of a frame with rows of movable beads, used for arithmetic operations.
+abaya: A loose-fitting, full-length garment worn by some Muslim women as a form of modest dress, typically black and covering the entire body except the face, hands, and feet.
+academic gown, academic robe, judge's robe: A long, flowing garment worn by academics and judges during official ceremonies and proceedings.
+accordion, piano accordion, squeeze box: A musical instrument with a keyboard and bellows, played by compressing and expanding the bellows while pressing keys or buttons.
+acoustic guitar: A stringed musical instrument that produces sound acoustically through the vibration of its strings and resonance of its body.
+aircraft carrier, carrier, flattop, attack aircraft carrier: A large naval ship equipped with a flight deck for launching and recovering aircraft.
+airliner: A large passenger aircraft designed for long-distance commercial flights.
+airship, dirigible: A lighter-than-air aircraft that is powered and steerable, commonly used for observation and advertising.
+altar: A table or flat-topped block used as the focus for a religious ritual, especially for making sacrifices or offerings.
+ambulance: A vehicle equipped for transporting the sick or injured to medical facilities.
+amphibian, amphibious vehicle: A vehicle capable of operating on both land and water.
+analog clock: A clock with a face and hands that indicate time through their positions on the dial.
+apiary, bee house: A place where beehives are kept, typically for honey production.
+apron: A protective garment worn over the front of the body to keep clothes clean or for protection in various tasks.
+ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin: A container for storing waste materials until they are collected.
+assault rifle, assault gun: A rapid-fire, magazine-fed automatic rifle designed for infantry use.
+backpack, back pack, knapsack, packsack, rucksack, haversack: A bag with shoulder straps, carried on the back, used for carrying supplies or personal belongings.
+bakery, bakeshop, bakehouse: A place where bread, cakes, and other baked goods are made or sold.
+balance beam, beam: A narrow, horizontal bar raised off the ground, used for gymnastics exercises and routines.
+balloon: A flexible bag filled with gas or air, used for decoration, entertainment, or scientific purposes.
+ballpoint, ballpoint pen, ballpen, Biro: A pen with a tiny ball as its writing point, which rotates to dispense ink.
+Band Aid: A small adhesive bandage with a gauze pad, used for covering minor wounds.
+banjo: A stringed musical instrument with a round body and a long neck, typically associated with American folk and country music.
+bannister, banister, balustrade, balusters, handrail: A handrail supported by posts, typically used on staircases.
+barbell: A long bar with weights attached to each end, used for weightlifting exercises.
+barber chair: A specially designed chair in a barbershop, equipped with an adjustable height and reclining backrest.
+barbershop: A place where people, typically men, go to have their hair cut and groomed.
+barn: A large farm building used for storing crops, hay, or livestock.
+barometer: An instrument measuring atmospheric pressure, used for weather forecasting.
+barrel, cask: A cylindrical container, typically made of wood or metal, used for storing liquids such as wine or oil.
+barrow, garden cart, lawn cart, wheelbarrow: A small, hand-propelled vehicle with one or two wheels, used for carrying small loads.
+baseball: A ball used in the sport of baseball, typically made of a rubber or cork center wrapped in yarn and covered with leather.
+basketball: A ball used in the sport of basketball, typically made of leather or synthetic materials and inflated with air.
+bassinet: A small bed for an infant, often designed to rock or swing.
+bassoon: A woodwind instrument with a long, curved body and a deep, rich sound.
+bathing cap, swimming cap: A tight-fitting cap worn to keep hair dry while swimming.
+bath towel: A large, absorbent towel used for drying the body after bathing or swimming.
+bathtub, bathing tub, bath, tub: A large container for holding water in which a person can bathe.
+beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon: A car with a large cargo area and rear door, often used for family travel and transporting goods.
+beacon, lighthouse, beacon light, pharos: A tower with a bright light or other signal used as a navigational aid for maritime pilots.
+beaker: A cylindrical glass or plastic container used in laboratories for mixing, stirring, and heating liquids.
+bearskin, busby, shako: A tall, black fur hat worn by certain military units, particularly the British Guards.
+beer bottle: A glass or plastic bottle designed for holding beer.
+beer glass: A glass designed for serving beer, typically with a wide mouth to accommodate the beer's head.
+bell cote, bell cot: A small structure on a roof or turret housing a bell.
+bib: A piece of cloth or plastic worn by babies to protect their clothes while eating.
+bicycle-built-for-two, tandem bicycle, tandem: A bicycle designed for two riders, one behind the other.
+bikini, two-piece: A two-piece swimsuit for women, typically consisting of a bra top and briefs.
+binder, ring-binder: A folder with rings inside for holding and organizing loose papers.
+binoculars, field glasses, opera glasses: A handheld optical instrument with two eyepieces for viewing distant objects.
+birdhouse: A small, enclosed structure for birds to nest in.
+boathouse: A building at the edge of a body of water used for storing boats.
+bobsled, bobsleigh, bob: A long, narrow sled used for racing down an ice track.
+bolo tie, bolo, bola tie, bola: A type of necktie consisting of a piece of cord or braided leather with decorative metal tips and a sliding clasp.
+bonnet, poke bonnet: A type of hat with a wide brim and ribbon ties, traditionally worn by women and children.
+bookcase: A piece of furniture with shelves for storing books.
+bookshop, bookstore, bookstall: A retail store selling books.
+bottlecap: A metal or plastic cap used to seal a bottle.
+bow: A curved piece of wood or other material with a taut string, used for shooting arrows.
+bow tie, bow-tie, bowtie: A type of necktie in the shape of a bow, typically worn with formal attire.
+brass, memorial tablet, plaque: A flat, typically rectangular metal plate engraved with a commemorative inscription.
+brassiere, bra, bandeau: An undergarment worn by women to support the breasts.
+breakwater, groin, groyne, mole, bulwark, seawall, jetty: A structure built out from the shore to protect a coast or harbor from the force of waves.
+breastplate, aegis, egis: A piece of armor covering the chest, used for protection in battle.
+broom: A long-handled brush used for sweeping floors.
+bucket, pail: A cylindrical container with a handle, used for carrying liquids or other substances.
+buckle: A fastening device consisting of a hinged pin and a catch, used to secure a belt or strap.
+bulletproof vest: A protective garment worn to prevent injury from bullets and other projectiles.
+bullet train, bullet: A high-speed train designed for fast travel between cities.
+butcher shop, meat market: A retail store specializing in the sale of meat.
+cab, hack, taxi, taxicab: A car with a driver that can be hired to carry passengers to their destination.
+caldron, cauldron: A large metal pot used for cooking over an open fire.
+candle, taper, wax light: A cylindrical stick of wax with a central wick that produces light when burned.
+cannon: A large, heavy gun typically mounted on wheels, used in warfare.
+canoe: A narrow, lightweight boat pointed at both ends, propelled with a paddle.
+can opener, tin opener: A handheld device used for cutting open metal cans.
+cardigan: A knitted sweater with buttons or a zipper down the front.
+car mirror: A mirror on a car, typically mounted on the side or inside, used for viewing the rear and sides of the vehicle.
+carousel, carrousel, merry-go-round, roundabout, whirligig: A rotating amusement ride with seats, often shaped like animals, for people to sit on.
+carpenter's kit, tool kit: A set of tools used by a carpenter for building and repairing structures.
+carton: A box made of cardboard or plastic, used for packaging goods.
+car wheel: The wheel of a car, typically made of metal and rubber.
+cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM: A machine that dispenses cash and performs other banking services when a bank card is inserted.
+cassette: A small, flat case containing magnetic tape, used for recording and playing back audio.
+cassette player: A device for playing audio cassettes.
+castle: A large fortified building or set of buildings, typically of the medieval period.
+catamaran: A boat with two parallel hulls, used for sailing or motorized transport.
+CD player: A device for playing compact discs.
+cello, violoncello: A large stringed musical instrument played with a bow, held between the knees.
+cellular telephone, cellular phone, cellphone, cell, mobile phone: A portable telephone that operates using a network of radio cells.
+chain: A series of connected metal links used for fastening or securing objects.
+chainlink fence: A fence made of interwoven metal wires forming a diamond pattern.
+chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour: A type of armor made of small metal rings linked together.
+chain saw, chainsaw: A portable, motorized saw with a loop of chain teeth, used for cutting wood.
+chest: A large, sturdy box with a lid, used for storage.
+chiffonier, commode: A tall, narrow chest of drawers or a low cabinet.
+chime, bell, gong: A musical instrument or signaling device that produces sound when struck.
+china cabinet, china closet: A cabinet for displaying and storing china dishes.
+Christmas stocking: A large, decorative sock hung up at Christmas for Santa Claus to fill with gifts.
+church, church building: A building used for Christian worship and religious activities.
+cinema, movie theater, movie theatre, movie house, picture palace: A building where films are shown to the public.
+cleaver, meat cleaver, chopper: A heavy, broad-bladed knife used for chopping meat.
+cliff dwelling: A dwelling built into the side of a cliff, typically used by ancient peoples.
+cloak: A loose, sleeveless outer garment that hangs from the shoulders.
+clog, geta, patten, sabot: A type of footwear with a thick wooden sole.
+cocktail shaker: A container used for mixing drinks by shaking.
+coffee mug: A large, sturdy cup used for drinking coffee.
+coffeepot: A pot used for brewing and serving coffee.
+coil, spiral, volute, whorl, helix: A shape or structure consisting of something wound in a continuous series of loops.
+combination lock: A lock that opens with a specific sequence of numbers or symbols.
+computer keyboard, keypad: A set of keys used to input data into a computer.
+confectionery, confectionary, candy store: A store that sells sweets and confections.
+container ship, containership, container vessel: A large ship designed to carry standardized cargo containers.
+convertible: A car with a roof that can be folded or removed.
+corkscrew, bottle screw: A device for pulling corks from bottles.
+cornet, horn, trumpet, trump: A brass musical instrument similar to a trumpet but shorter and with a more compact shape.
+cowboy boot: A high-heeled boot with a pointed toe and a high shaft, typically worn by cowboys.
+cowboy hat, ten-gallon hat: A wide-brimmed hat with a high crown, typically worn by cowboys.
+cradle: A small bed for an infant, often designed to rock or swing.
+crane: A large machine used for lifting and moving heavy objects.
+crash helmet: A protective helmet worn to prevent head injuries in the event of an accident.
+crate: A large, sturdy container used for transporting goods.
+crib, cot: A small bed with high sides for a baby or young child.
+Crock Pot: A brand of slow cooker used for cooking food at low temperatures over a long period.
+croquet ball: A ball used in the game of croquet, typically made of wood or plastic.
+crutch: A support used by someone with difficulty walking, typically a long stick with a padded top.
+cuirass: A piece of armor covering the chest and back.
+dam, dike, dyke: A barrier constructed to hold back water and raise its level.
+desk: A piece of furniture with a flat surface for writing or working, often with drawers or compartments.
+desktop computer: A personal computer designed to fit on a desk.
+dial telephone, dial phone: A telephone with a rotary dial for inputting numbers.
+diaper, nappy, napkin: A garment worn by infants to absorb urine and feces.
+digital clock: A clock that displays the time in numerical digits.
+digital watch: A watch that displays the time in numerical digits.
+dining table, board: A table used for eating meals.
+dishrag, dishcloth: A cloth used for washing or drying dishes.
+dishwasher, dish washer, dishwashing machine: A machine for washing dishes automatically.
+disk brake, disc brake: A type of brake that uses the friction of a rotating disc to stop a vehicle.
+dock, dockage, docking facility: A structure where boats and ships can be moored and loaded or unloaded.
+dogsled, dog sled, dog sleigh: A sled pulled by dogs, typically used for transportation in snowy regions.
+dome: A rounded, vault-like roof structure.
+doormat, welcome mat: A mat placed outside a door for wiping feet before entering.
+drilling platform, offshore rig: A large structure used for drilling wells in the ocean floor to extract oil or gas.
+drum, membranophone, tympan: A percussion instrument consisting of a hollow cylinder with a membrane stretched over one or both ends.
+drumstick: A stick used for playing a drum.
+dumbbell: A short bar with weights at each end, used for weightlifting exercises.
+Dutch oven: A large, heavy pot with a tight-fitting lid, used for slow-cooking and baking.
+electric fan, blower: A device with rotating blades that create airflow to cool or ventilate an area.
+electric guitar: A guitar that uses electronic pickups to convert string vibrations into electrical signals.
+electric locomotive: A railway locomotive powered by electricity from overhead lines or an onboard generator.
+entertainment center: A piece of furniture designed to hold a television and other electronic media devices.
+envelope: A flat paper container used for enclosing a letter or document.
+espresso maker: A machine used to brew espresso coffee.
+face powder: A cosmetic powder applied to the face to set makeup or reduce shine.
+feather boa, boa: A long, fluffy scarf made of feathers, often worn as a fashion accessory.
+file, file cabinet, filing cabinet: A piece of furniture with drawers for storing documents in folders.
+fireboat: A boat equipped with firefighting equipment.
+fire engine, fire truck: A vehicle equipped for firefighting.
+fire screen, fireguard: A protective screen placed in front of a fireplace to prevent sparks from escaping.
+flagpole, flagstaff: A tall pole used for displaying a flag.
+flute, transverse flute: A woodwind instrument played by blowing across the mouthpiece and pressing keys to produce different notes.
+folding chair: A portable chair that can be folded for easy storage and transport.
+football helmet: A protective helmet worn by football players to prevent head injuries.
+forklift: A vehicle with a pronged device for lifting and carrying heavy loads.
+fountain: A decorative structure that jets water into the air.
+fountain pen: A pen with a reservoir for holding ink, which flows to the nib through capillary action.
+four-poster: A bed with four vertical posts, one at each corner.
+freight car: A railroad car used for transporting goods.
+French horn, horn: A brass musical instrument with a coiled tube and flared bell.
+frying pan, frypan, skillet: A flat-bottomed pan used for frying food.
+fur coat: A coat made of fur, typically worn for warmth and fashion.
+garbage truck, dustcart: A truck for collecting and transporting garbage.
+gasmask, respirator, gas helmet: A mask worn to protect the wearer from inhaling harmful gases and particles.
+gas pump, gasoline pump, petrol pump, island dispenser: A machine at a gas station used for dispensing gasoline into vehicles.
+goblet: A drinking glass with a stem and base.
+go-kart: A small, low vehicle used for racing or recreation.
+golf ball: A small, hard ball used in the game of golf.
+golfcart, golf cart: A small motorized vehicle used for transporting golfers and their equipment around a golf course.
+gondola: A long, narrow boat used in the canals of Venice, propelled by a person with a pole.
+gong, tam-tam: A large, flat, circular metal disc that produces a resonant sound when struck.
+gown: A long, flowing garment worn for special occasions or by judges and academics.
+grand piano, grand: A large, full-sized piano with a horizontal frame and strings.
+greenhouse, nursery, glasshouse: A building made of glass or transparent materials used for growing plants in controlled conditions.
+grille, radiator grille: A protective or decorative cover for the front of a vehicle's radiator.
+grocery store, grocery, food market, market: A store that sells food and other household goods.
+guillotine: A machine with a heavy blade used for executing people by beheading.
+hair slide: A decorative clip or barrette used to hold hair in place.
+hair spray: A cosmetic product used to hold hair in place and provide a finish.
+half track: A military vehicle with wheels at the front and continuous tracks at the rear.
+hammer: A tool with a heavy head and a handle, used for driving nails or breaking objects.
+hamper: A large basket with a lid, used for laundry or storage.
+hand blower, blow dryer, blow drier, hair dryer, hair drier: An electric device used to dry hair by blowing warm air.
+hand-held computer, hand-held microcomputer: A small, portable computer that can be held in one hand.
+handkerchief, hankie, hanky, hankey: A small square of cloth used for wiping the face or hands.
+hard disc, hard disk, fixed disk: A data storage device used for storing and retrieving digital information.
+harmonica, mouth organ, harp, mouth harp: A small, rectangular musical instrument played by blowing into or drawing air through reed chambers.
+harp: A large stringed musical instrument with a triangular frame, played by plucking the strings with the fingers.
+harvester, reaper: A machine used for harvesting crops.
+hatchet: A small axe with a short handle, used for chopping wood.
+holster: A holder for carrying a handgun, typically worn on a belt or shoulder strap.
+home theater, home theatre: A system for reproducing theater-quality sound and video in a home setting.
+honeycomb: A structure of hexagonal cells made by bees to store honey and larvae.
+hook, claw: A curved or bent tool for catching, holding, or pulling something.
+hoopskirt, crinoline: A framework of hoops worn under a skirt to extend and shape it.
+horizontal bar, high bar: A gymnastics apparatus consisting of a horizontal bar fixed above the ground, used for various exercises.
+horse cart, horse-cart: A two-wheeled or four-wheeled vehicle drawn by a horse, used for carrying loads.
+hourglass: A device for measuring time, consisting of two glass bulbs connected by a narrow neck, through which sand flows.
+iPod: A portable media player developed by Apple Inc.
+iron, smoothing iron: A handheld appliance with a flat, heated surface used to press clothes to remove wrinkles.
+jack-o'-lantern: A lantern made from a hollowed-out pumpkin with a carved face, typically displayed at Halloween.
+jean, blue jean, denim: A type of durable cotton fabric, typically used for making jeans, a style of pants.
+jeep, landrover: A rugged, four-wheel-drive vehicle designed for off-road use.
+jersey, T-shirt, tee shirt: A casual shirt with short sleeves and a round neck, usually made of cotton.
+jigsaw puzzle: A puzzle consisting of a picture cut into irregularly shaped pieces that must be fitted together.
+jinrikisha, ricksha, rickshaw: A small, two-wheeled cart pulled by a person, used as a form of transport in some Asian countries.
+joystick: A handheld control stick used for video games and other applications to control movement or actions.
+kimono: A traditional Japanese garment with wide sleeves and a wrap-around design, typically worn on special occasions.
+knee pad: A protective pad worn over the knee to prevent injury.
+knot: A fastening made by tying a piece of string, rope, or fabric.
+lab coat, laboratory coat: A long, protective garment worn by scientists and medical professionals.
+ladle: A large, long-handled spoon used for serving soup or other liquids.
+lampshade, lamp shade: A cover for a lamp that softens or directs the light.
+laptop, laptop computer: A portable personal computer with a screen and keyboard.
+lawn mower, mower: A machine used for cutting grass on lawns.
+lens cap, lens cover: A protective cover for a camera lens.
+letter opener, paper knife, paperknife: A small knife used for opening envelopes.
+library: A building or room containing collections of books, periodicals, and sometimes films and recorded music for people to read, borrow, or refer to.
+lifeboat: A small, sturdy boat kept on a ship for use in emergency situations.
+lighter, light, igniter, ignitor: A device used to ignite a fire, typically for lighting cigarettes or candles.
+limousine, limo: A large, luxurious car typically driven by a chauffeur.
+liner, ocean liner: A large ship designed for transporting passengers and cargo on long voyages.
+lipstick, lip rouge: A cosmetic product applied to the lips to add color and texture.
+loafer: A style of slip-on shoe with a low heel.
+lotion: A liquid preparation applied to the skin for moisturizing or medicinal purposes.
+loudspeaker, speaker, speaker unit, loudspeaker system, speaker system: A device that converts electrical signals into sound, used in audio systems.
+loupe, jeweler's loupe: A small magnifying lens used by jewelers and watchmakers.
+lumbermill, sawmill: A facility where logs are cut into lumber.
+magnetic compass: A navigational instrument that shows directions using the Earth's magnetic field.
+mailbag, postbag: A large bag used by postal workers to carry mail.
+mailbox, letter box: A box where mail is delivered and collected.
+maillot: A one-piece swimsuit for women.
+maillot, tank suit: Another term for a one-piece swimsuit.
+manhole cover: A removable cover for a manhole, typically made of metal.
+maraca: A percussion instrument consisting of a hollow gourd filled with beans or pebbles, shaken to produce sound.
+marimba, xylophone: A musical instrument with wooden bars struck by mallets to produce sound.
+mask: A covering for the face, used for protection, disguise, or performance.
+matchstick: A small stick of wood or cardboard tipped with a chemical substance that ignites when struck.
+maypole: A tall pole decorated with flowers and ribbons, used in traditional May Day celebrations.
+maze, labyrinth: A complex network of paths or passages that are difficult to navigate.
+measuring cup: A kitchen utensil used to measure the volume of liquids or bulk foods.
+medicine chest, medicine cabinet: A cabinet for storing medicines and first-aid supplies.
+megalith, megalithic structure: A large stone used to construct a structure or monument, typically from prehistoric times.
+microphone, mike: A device that converts sound into electrical signals for recording or amplification.
+microwave, microwave oven: An electric oven that uses microwaves to cook or heat food.
+military uniform: Standardized clothing worn by members of the armed forces.
+milk can: A large, cylindrical container used for transporting milk.
+minibus: A small bus designed to carry fewer passengers than a full-sized bus.
+miniskirt, mini: A very short skirt.
+minivan: A small van designed for transporting passengers, typically with three rows of seats.
+missile: A self-propelled weapon designed to be launched and directed at a target.
+mitten: A glove that covers the hand and thumb together, with a separate section for the fingers.
+mixing bowl: A large bowl used for mixing ingredients.
+mobile home, manufactured home: A prefabricated home that can be transported to a site.
+Model T: An early automobile produced by the Ford Motor Company.
+modem: A device that modulates and demodulates signals for communication over telephone lines or cable.
+monastery: A building or complex where monks or nuns live and work.
+monitor: A screen used to display information from a computer.
+moped: A low-powered motorcycle with pedals.
+mortar: A bowl-shaped container used for grinding substances with a pestle.
+mortarboard: A flat, square hat worn as part of academic dress.
+mosque: A Muslim place of worship.
+mosquito net: A fine net hung over a bed or area to keep mosquitoes away.
+motor scooter, scooter: A small motorcycle with a step-through frame.
+mountain bike, all-terrain bike, off-roader: A bicycle designed for off-road cycling.
+mountain tent: A tent designed for use in mountainous or harsh conditions.
+mouse, computer mouse: A hand-held device used to control a cursor on a computer screen.
+mousetrap: A device for catching and killing mice.
+moving van: A large vehicle used for transporting household goods during a move.
+muzzle: A device placed over an animal's mouth to prevent it from biting or eating.
+nail: A small metal spike used for fastening pieces of wood or other materials together.
+neck brace: A medical device worn around the neck to support and immobilize it.
+necklace: A piece of jewelry worn around the neck.
+nipple: The small projection in the center of the breast through which milk is secreted.
+notebook, notebook computer: A portable personal computer.
+obelisk: A tall, four-sided, narrow tapering monument with a pyramidion on top.
+oboe, hautboy, hautbois: A woodwind instrument with a double reed, producing a high-pitched sound.
+ocarina, sweet potato: A small, egg-shaped wind instrument with finger holes.
+odometer, hodometer, mileometer, milometer: An instrument that measures the distance traveled by a vehicle.
+oil filter: A filter designed to remove contaminants from engine oil.
+organ, pipe organ: A large musical instrument that produces sound by driving air through pipes.
+oscilloscope, scope, cathode-ray oscilloscope, CRO: An electronic device used to display and analyze the waveform of electronic signals.
+overskirt: A skirt worn over another skirt.
+oxcart: A cart pulled by oxen, used for transporting goods.
+oxygen mask: A mask that provides oxygen to the wearer.
+packet: A small package or container.
+paddle, boat paddle: A short pole with a broad blade at one or both ends, used for propelling and steering a boat.
+paddlewheel, paddle wheel: A large wheel fitted with paddles, used to propel a boat.
+padlock: A portable lock with a shackle that can be passed through an opening to secure an object.
+paintbrush: A brush used for applying paint.
+pajama, pyjama, pj's, jammies: Loose-fitting clothes worn for sleeping.
+palace: A large, impressive residence, especially a royal residence.
+panpipe, pandean pipe, syrinx: A musical instrument consisting of a series of pipes of different lengths.
+paper towel: A disposable towel made of paper, used for drying hands or cleaning up spills.
+parachute, chute: A device used to slow the descent of a person or object through the air.
+parallel bars, bars: A gymnastics apparatus consisting of two parallel bars set at different heights.
+park bench: A bench placed in a public park for people to sit on.
+parking meter: A device that collects money in exchange for parking a vehicle in a particular place for a limited time.
+passenger car, coach, carriage: A railroad car designed to carry passengers.
+patio, terrace: An outdoor space for dining or recreation, typically paved and adjacent to a house.
+pay-phone, pay-station: A public telephone that requires payment to use.
+pedestal, plinth, footstall: A base or support on which a statue or column is mounted.
+pencil box, pencil case: A container used for storing pencils and other writing instruments.
+pencil sharpener: A device used to sharpen the points of pencils.
+perfume, essence: A fragrant liquid typically made from essential oils, used to give a pleasant scent.
+Petri dish: A shallow, circular dish used for culturing microorganisms.
+photocopier: A machine used to make copies of documents.
+pick, plectrum, plectron: A small, flat tool used for plucking the strings of a musical instrument.
+pickelhaube: A spiked helmet worn by German soldiers in the 19th and early 20th centuries.
+picket fence, paling: A fence made of upright stakes or pickets.
+pickup, pickup truck: A small truck with an enclosed cab and open cargo area.
+pier: A structure built out over the water, used as a landing place or for recreational purposes.
+piggy bank, penny bank: A container used by children to save money.
+pill bottle: A small container used for storing pills.
+pillow: A soft cushion used to support the head while sleeping.
+ping-pong ball: A small, lightweight ball used in the game of table tennis.
+pinwheel: A toy consisting of a stick with a wheel of paper or plastic that spins in the wind.
+pirate, pirate ship: A person who attacks and robs ships at sea; a ship used by pirates.
+pitcher, ewer: A container with a handle and spout used for pouring liquids.
+plane, carpenter's plane, woodworking plane: A hand tool used to smooth or shape wood.
+planetarium: A building or room with a domed ceiling used to project images of stars and planets.
+plastic bag: A flexible container made of plastic, used for carrying items.
+plate rack: A rack for holding plates.
+plow, plough: A farming tool used for cutting, lifting, and turning over soil.
+plunger, plumber's helper: A device used to clear blockages in pipes and drains.
+Polaroid camera, Polaroid Land camera: An instant camera that develops photographs shortly after they are taken.
+pole: A long, slender object used for support or as a marker.
+police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria: A vehicle used by police to transport prisoners.
+poncho: A cloak with a hole in the center for the head, typically worn as a raincoat.
+pool table, billiard table, snooker table: A table used for playing pool, billiards, or snooker.
+pop bottle, soda bottle: A bottle used for containing carbonated beverages.
+pot, flowerpot: A container in which plants are grown.
+potter's wheel: A device used for shaping clay into pottery.
+power drill: A handheld tool with a rotating drill bit used for making holes.
+prayer rug, prayer mat: A small rug used by Muslims for kneeling on during prayer.
+printer: A machine that produces printed text and images from digital data.
+prison, prison house: A building for the confinement of people convicted of crimes.
+projectile, missile: An object propelled through the air, especially as a weapon.
+projector: A device used to project images or films onto a screen.
+puck, hockey puck: A flat, round disc used in the game of ice hockey.
+punching bag, punch bag, punching ball, punchball: A bag filled with air or padding, used for practicing punches.
+purse: A small bag used for carrying money and personal items.
+quill, quill pen: A writing instrument made from a feather.
+quilt, comforter, comfort, puff: A thick, warm bed covering made of two layers of fabric with padding in between.
+racer, race car, racing car: A car designed for competitive racing.
+racket, racquet: A sports implement with a handle and an open hoop strung with cord, used for hitting a ball or shuttlecock.
+radiator: A device used for heating rooms or cooling engines.
+radio, wireless: A device that receives and amplifies radio signals.
+radio telescope, radio reflector: An astronomical instrument that collects and amplifies radio waves from space.
+rain barrel: A container used for collecting and storing rainwater.
+recreational vehicle, RV, R.V.: A motor vehicle or trailer equipped with living quarters.
+reel: A cylindrical device used for winding and storing wire, film, or fishing line.
+reflex camera: A camera in which the image is reflected by a mirror onto a focusing screen.
+refrigerator, icebox: A device used to keep food and drinks cold.
+remote control, remote: A device used to operate a machine or appliance from a distance.
+restaurant, eating house, eating place, eatery: A place where meals are prepared and served to customers.
+revolver, six-gun, six-shooter: A type of handgun with a revolving cylinder containing multiple chambers for bullets.
+rifle: A long-barreled firearm designed for precision shooting.
+rocking chair, rocker: A chair mounted on curved rockers, allowing it to rock back and forth.
+rotisserie: A cooking appliance with a rotating spit for roasting meat.
+rubber eraser, rubber, pencil eraser: A small piece of rubber used to remove pencil marks from paper.
+rugby ball: An oval-shaped ball used in the sport of rugby.
+rule, ruler: A straight-edged tool used for measuring or drawing straight lines.
+running shoe: A lightweight, flexible shoe designed for running.
+safe: A secure, lockable box used for storing valuable items.
+safety pin: A pin with a clasp used for fastening fabric or other materials.
+saltshaker, salt shaker: A container with perforations in the lid, used for sprinkling salt.
+sandal: A type of open-toed footwear with straps securing the foot.
+sarong: A long piece of cloth wrapped around the waist, worn in Southeast Asia and the Pacific islands.
+sax, saxophone: A brass wind instrument with a single reed mouthpiece, used in jazz and classical music.
+scabbard: A sheath for holding a sword, dagger, or bayonet.
+scale, weighing machine: A device used to measure weight.
+school bus: A vehicle used to transport students to and from school.
+schooner: A sailing ship with two or more masts.
+scoreboard: A large board for displaying the score in a sports event.
+screen, CRT screen: A display device used to show visual output from a computer or television.
+screw: A metal fastener with a helical ridge, used to hold objects together.
+screwdriver: A tool used for turning screws.
+seat belt, seatbelt: A safety device in vehicles, designed to secure passengers in their seats.
+sewing machine: A machine used for stitching fabric and other materials.
+shield, buckler: A protective device used to block or deflect attacks.
+shoe shop, shoe-shop, shoe store: A retail store specializing in the sale of shoes.
+shoji: A Japanese sliding door made of wood and paper.
+shopping basket: A handheld basket used for carrying items while shopping.
+shopping cart: A wheeled cart used for carrying items while shopping.
+shovel: A tool with a broad blade and a handle, used for digging or moving material.
+shower cap: A waterproof cap worn to keep hair dry while showering.
+shower curtain: A curtain used to prevent water from splashing out of the shower.
+ski: A narrow strip of material worn underfoot to glide over snow.
+ski mask: A mask covering the head and face, worn for warmth and protection while skiing.
+sleeping bag: A padded, insulated bag for sleeping, typically used when camping.
+slide rule, slipstick: A manual device used for mathematical calculations.
+sliding door: A door that opens and closes by sliding horizontally.
+slot, one-armed bandit: A slot machine, a gambling device with spinning reels.
+snorkel: A breathing tube used for swimming underwater.
+snowmobile: A motorized vehicle designed for travel over snow.
+snowplow, snowplough: A vehicle or device used to remove snow from roads and other surfaces.
+soap dispenser: A device that dispenses liquid soap.
+soccer ball: A spherical ball used in the sport of soccer.
+sock: A garment worn on the foot, usually under shoes.
+solar dish, solar collector, solar furnace: A device that collects and concentrates solar energy for heating or power generation.
+sombrero: A wide-brimmed hat from Mexico, used for sun protection.
+soup bowl: A bowl used for serving soup.
+space bar: A long key on a keyboard used to insert spaces between words.
+space heater: A device used to heat a single room or area.
+space shuttle: A spacecraft designed for repeated trips between Earth and space.
+spatula: A flat, flexible tool used for mixing, spreading, or lifting food.
+speedboat: A fast motorboat designed for racing or recreational use.
+spider web, spider's web: A structure made of silk threads spun by a spider.
+spindle: A rod used for spinning and winding thread or yarn.
+sports car, sport car: A small, fast car designed for performance driving.
+spotlight, spot: A focused light used to illuminate a specific area or subject.
+stage: A raised platform used for performances.
+steam locomotive: A train engine powered by steam.
+steel arch bridge: A bridge with a curved arch structure made of steel.
+steel drum: A musical instrument made from a steel oil drum.
+stethoscope: A medical instrument used for listening to internal body sounds.
+stole: A long, narrow scarf or shawl, typically worn by women.
+stone wall: A wall made of stone blocks.
+stopwatch, stop watch: A watch used to measure time intervals.
+stove: An appliance used for cooking or heating.
+strainer: A device used to separate liquids from solids.
+streetcar, tram, tramcar, trolley, trolley car: A vehicle that runs on tracks in the street, used for public transportation.
+stretcher: A device used for carrying a sick or injured person.
+studio couch, day bed: A couch that can be converted into a bed.
+stupa, tope: A dome-shaped Buddhist monument.
+submarine, pigboat, sub, U-boat: A watercraft capable of underwater operation.
+suit, suit of clothes: A set of matching clothes, typically consisting of a jacket and trousers.
+sundial: A device that tells time by the position of the sun's shadow.
+sunglass: A lens used to protect the eyes from bright light.
+sunglasses, dark glasses, shades: Eyewear that protects the eyes from sunlight.
+sunscreen, sunblock, sun blocker: A lotion or cream that protects the skin from ultraviolet rays.
+suspension bridge: A bridge with a deck suspended by cables.
+swab, swob, mop: A cleaning tool with a long handle and an absorbent head.
+sweatshirt: A warm, long-sleeved shirt typically made of cotton or fleece.
+swimming trunks, bathing trunks: Shorts worn for swimming.
+swing: A seat suspended by ropes or chains, used for swinging back and forth.
+switch, electric switch, electrical switch: A device used to open or close an electrical circuit.
+syringe: A device used to inject fluids into or withdraw fluids from the body.
+table lamp: A lamp designed to sit on a table or desk.
+tank, army tank, armored combat vehicle, armoured combat vehicle: A heavily armored combat vehicle with a large gun.
+tape player: A device for playing audio tapes.
+teapot: A pot used for brewing and serving tea.
+teddy, teddy bear: A soft toy bear.
+television, television system: An electronic device for receiving and displaying visual and audio signals.
+tennis ball: A ball used in the sport of tennis.
+thatch, thatched roof: A roof made of straw, reeds, or similar materials.
+theater curtain, theatre curtain: A curtain used to conceal the stage in a theater.
+thimble: A small metal cap worn on the finger to protect it while sewing.
+thresher, thrasher, threshing machine: A machine used for separating grain from stalks and husks.
+throne: A ceremonial chair for a sovereign or high-ranking person.
+tile roof: A roof covered with tiles.
+toaster: A device used to toast bread.
+tobacco shop, tobacconist shop, tobacconist: A store that sells tobacco products.
+toilet seat: A hinged seat on a toilet.
+torch: A portable light typically powered by batteries or gas.
+totem pole: A tall wooden pole carved with symbols and figures, used by Indigenous peoples of the Pacific Northwest.
+tow truck, tow car, wrecker: A vehicle used to tow or transport disabled vehicles.
+toyshop: A store that sells toys.
+tractor: A powerful vehicle used for pulling farm machinery.
+trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi: A large truck consisting of a tractor and a trailer.
+tray: A flat, shallow container used for carrying or displaying items.
+trench coat: A long, waterproof coat with a belt, typically worn as a raincoat.
+tricycle, trike, velocipede: A three-wheeled vehicle, typically for children.
+trimaran: A boat with three hulls.
+tripod: A three-legged stand used to support a camera or other equipment.
+triumphal arch: A monumental structure with an arched passageway, built to commemorate a victory.
+trolleybus, trolley coach, trackless trolley: A bus powered by overhead electrical wires.
+trombone: A brass instrument with a sliding tube used to change the pitch.
+tub, vat: A large container used for holding liquids or other substances.
+turnstile: A mechanical gate consisting of revolving horizontal arms, used to control access to a place.
+typewriter keyboard: The set of keys used to operate a typewriter.
+umbrella: A handheld device used for protection from rain or sun.
+unicycle, monocycle: A vehicle with a single wheel, ridden by balancing and pedaling.
+upright, upright piano: A piano with vertical strings and a compact design.
+vacuum, vacuum cleaner: A device that uses suction to remove dirt and dust from floors and other surfaces.
+vase: A decorative container, typically used for holding flowers.
+vault: A secure room or compartment used for storing valuables.
+velvet: A soft, luxurious fabric with a dense pile.
+vending machine: A machine that dispenses items such as snacks or beverages when money is inserted.
+vestment: A ceremonial garment worn by clergy.
+viaduct: A long bridge-like structure with arches, used to carry a road or railway over a valley.
+violin, fiddle: A stringed musical instrument played with a bow.
+volleyball: A ball used in the sport of volleyball.
+waffle iron: A device used to cook waffles by pressing batter between two heated plates.
+wall clock: A clock mounted on a wall.
+wallet, billfold, notecase, pocketbook: A small, flat case used for carrying money and personal items.
+wardrobe, closet, press: A tall cabinet or cupboard used for storing clothes.
+warplane, military plane: An aircraft designed for military use.
+washbasin, handbasin, washbowl, lavabo, wash-hand basin: A basin used for washing hands and face.
+washer, automatic washer, washing machine: A machine for washing clothes automatically.
+water bottle: A bottle used for holding water.
+water jug: A jug used for holding and pouring water.
+water tower: A tall structure used to store and supply water at a high pressure.
+whiskey jug: A jug used for holding whiskey.
+whistle: A small device that produces a high-pitched sound when blown.
+wig: A head covering made of synthetic or natural hair.
+window screen: A mesh screen fitted over a window to keep insects out.
+window shade: A covering for a window that can be rolled up or down.
+Windsor tie: A type of necktie knot.
+wine bottle: A bottle used for holding wine.
+wing: A part of an aircraft that provides lift.
+wok: A round-bottomed cooking pan used in Chinese cuisine.
+wooden spoon: A spoon made of wood, used for cooking.
+wool, woolen, woollen: The soft, curly hair from sheep, used to make fabric.
+worm fence, snake fence, snake-rail fence, Virginia fence: A zigzag wooden fence.
+wreck: The remains of something that has been badly damaged or destroyed.
+yawl: A two-masted sailing boat.
+yurt: A circular tent used by nomadic people in Central Asia.
+web site, website, internet site, site: A collection of web pages accessible on the internet.
+comic book: A magazine or book containing sequential art and dialogue.
+crossword puzzle, crossword: A word puzzle consisting of a grid of squares and blanks, filled by solving clues.
+street sign: A sign displaying the name of a street.
+traffic light, traffic signal, stoplight: A signaling device positioned at road intersections to control the flow of traffic.
+book jacket, dust cover, dust jacket, dust wrapper: A removable paper cover for protecting a book.
+menu: A list of dishes available at a restaurant.
+plate: A flat dish used for serving food.
+guacamole: A dip made from mashed avocado, lime juice, and other ingredients.
+consomme: A clear soup made from richly flavored stock.
+hot pot, hotpot: A Chinese dish consisting of a simmering pot of soup stock, into which various ingredients are dipped and cooked.
+trifle: A dessert made with layers of sponge cake, fruit, custard, and whipped cream.
+ice cream, icecream: A frozen dessert made from cream, sugar, and flavorings.
+ice lolly, lolly, lollipop, popsicle: A frozen treat on a stick.
+French loaf: A long, narrow loaf of French bread.
+bagel, beigel: A dense, ring-shaped bread roll, typically boiled before baking.
+pretzel: A type of baked bread product twisted into a knot shape.
+cheeseburger: A hamburger topped with cheese.
+hotdog, hot dog, red hot: A cooked sausage served in a sliced bun.
+mashed potato: Potatoes that have been boiled and mashed, typically with milk and butter.
+head cabbage: A type of cabbage with a round, dense head.
+broccoli: A green vegetable with a large flowering head and stalk.
+cauliflower: A white vegetable with a large, dense head of undeveloped flowers.
+zucchini, courgette: A summer squash with a long, green body.
+spaghetti squash: A type of squash that, when cooked, has flesh that separates into strands resembling spaghetti.
+acorn squash: A small, green squash with a distinctive acorn shape.
+butternut squash: A large, tan-colored squash with sweet, orange flesh.
+cucumber, cuke: A long, green vegetable with a crisp, watery flesh.
+artichoke, globe artichoke: A thistle-like vegetable with edible leaves and heart.
+bell pepper: A large, mild pepper with a sweet flavor, available in various colors.
+cardoon: A thistle-like vegetable with edible stalks.
+mushroom: A type of fungus with a fleshy fruiting body, used as food.
+Granny Smith: A variety of apple with green skin and a tart flavor.
+strawberry: A small, red fruit with a juicy, sweet flavor.
+orange: A citrus fruit with a thick, orange skin and juicy flesh.
+lemon: A citrus fruit with a yellow skin and tart flavor.
+fig: A sweet fruit with a soft, chewy texture and many small seeds.
+pineapple, ananas: A tropical fruit with a tough, spiky skin and sweet, juicy flesh.
+banana: A long, yellow fruit with a soft, sweet flesh.
+jackfruit, jak, jack: A large tropical fruit with a spiky exterior and sweet, fibrous flesh.
+custard apple: A tropical fruit with a sweet, creamy flesh and a scaly rind.
+pomegranate: A fruit with a thick skin and many seeds surrounded by juicy, red flesh.
+hay: Dried grass used as animal feed.
+carbonara: An Italian pasta dish made with eggs, cheese, pancetta, and pepper.
+chocolate sauce, chocolate syrup: A sweet, thick liquid made from chocolate, used as a topping or ingredient.
+dough: A mixture of flour, water, and other ingredients, used as a base for baked goods.
+meat loaf, meatloaf: A dish made of ground meat mixed with other ingredients, shaped into a loaf and baked.
+pizza, pizza pie: A dish made of flattened dough topped with tomato sauce, cheese, and other ingredients, then baked.
+potpie: A savory pie filled with meat and vegetables in a thick sauce.
+burrito: A Mexican dish consisting of a flour tortilla wrapped around a filling of meat, beans, and other ingredients.
+red wine: A type of wine made from dark-colored grape varieties.
+espresso: A strong, concentrated coffee brewed by forcing hot water through finely-ground coffee beans.
+cup: A small, open container used for drinking.
+eggnog: A rich, creamy beverage made with milk, cream, sugar, and eggs, often flavored with nutmeg and sometimes alcoholic.
+alp: A high mountain, especially one of the Alps.
+bubble: A small, spherical pocket of gas surrounded by liquid.
+cliff, drop, drop-off: A steep face of rock or earth.
+coral reef: A marine structure made of the skeletons of tiny sea animals called coral polyps.
+geyser: A natural hot spring that intermittently spouts water and steam.
+lakeside, lakeshore: The land along the edge of a lake.
+promontory, headland, head, foreland: A high point of land that juts out into the sea.
+sandbar, sand bar: A ridge of sand built up by currents in a river or coastal waters.
+seashore, coast, seacoast, sea-coast: The area where land meets the sea.
+valley, vale: A low area of land between hills or mountains.
+volcano: A mountain with a crater or vent through which lava, rock fragments, and gas are erupted.
+ballplayer, baseball player: An athlete who plays the game of baseball.
+groom, bridegroom: A man who is getting married.
+scuba diver: A person who swims underwater using a self-contained underwater breathing apparatus (scuba).
+rapeseed: A plant grown for its oil-rich seeds.
+daisy: A small, white flower with a yellow center.
+yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum: A type of orchid with a distinctive yellow pouch-like flower.
+corn: A cereal plant that produces large grains, or kernels, set in rows on a cob.
+acorn: The nut of the oak tree.
+hip, rose hip, rosehip: The fruit of the rose plant.
+buckeye, horse chestnut, conker: The large, glossy seed of the horse chestnut tree.
+coral fungus: A type of fungus with a branching, coral-like structure.
+agaric: A type of mushroom with a cap and gills.
+gyromitra: A genus of fungi known for its brain-like appearance and toxic properties.
+stinkhorn, carrion fungus: A type of fungus known for its foul odor.
+earthstar: A type of fungus with a star-shaped structure.
+hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa: A type of edible mushroom that grows in large clusters.
+bolete: A type of mushroom with a thick stem and spongy pores under the cap.
+ear, spike, capitulum: The seed-bearing part of a cereal plant.
+toilet tissue, toilet paper, bathroom tissue: A soft paper product used for cleaning oneself after using the toilet.
