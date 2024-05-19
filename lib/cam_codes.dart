@@ -1,0 +1,185 @@
+import 'package:camera/camera.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_tts/flutter_tts.dart';
+import 'package:tflite/tflite.dart';
+import '../../../main.dart';
+
+class ScanController extends StatefulWidget {
+  const ScanController({Key? key}) : super(key: key);
+
+  @override
+  State<ScanController> createState() => _ScanControllerState();
+}
+
+class _ScanControllerState extends State<ScanController> {
+  CameraImage? imgCamera;
+  late CameraController controller;
+  final FlutterTts flutterTts = FlutterTts();
+  String _showedText = "";
+  int _counter = 0;
+
+  Future<dynamic> loadModel() async {
+    Tflite.close();
+    await Tflite.loadModel(
+      model: "assets/objects_mobilenet.tflite",
+      labels: "assets/objects_mobilenet.txt",
+      numThreads: 2,
+      isAsset: true,
+      useGpuDelegate: false,
+    );
+  }
+
+  @override
+  void initState() {
+    super.initState();
+    loadModel();
+    controller = CameraController(cameras![0], ResolutionPreset.max);
+    controller.initialize().then((_) {
+      if (!mounted) {
+        return;
+      }
+
+      controller.startImageStream((image) async {
+        imgCamera = image;
+
+        if (_counter == 50) {
+          _showedText = await runModel(1);
+          _counter = 0;
+          setState(() {});
+        }
+        _counter++;
+      });
+      setState(() {});
+    }).catchError((Object e) {
+      if (e is CameraException) {
+        switch (e.code) {
+          case 'CameraAccessDenied':
+            break;
+          default:
+            break;
+        }
+      }
+    });
+  }
+
+  @override
+  void dispose() {
+    controller.dispose();
+    super.dispose();
+  }
+
+  Future<String> runModel(int c) async {
+    var recognitions = await Tflite.runModelOnFrame(
+      bytesList: imgCamera!.planes.map((plane) {
+        return plane.bytes;
+      }).toList(),
+      imageHeight: imgCamera!.height,
+      imageWidth: imgCamera!.width,
+      imageMean: 127.5,
+      imageStd: 127.5,
+      rotation: 90,
+      numResults: 5,
+      threshold: 0.1,
+      asynch: true,
+    );
+
+    if (c == 2) {
+      List<String> allLabels = [];
+      for (int i = 0; i < recognitions!.length; i++) {
+        print(recognitions[i]['label']);
+        allLabels.add(recognitions[i]['label']);
+      }
+
+      String result = "";
+      for (int i = 0; allLabels.length - 2 > i; i++) {
+        result += allLabels[i];
+        result += " , ";
+      }
+      result =
+          result + allLabels[allLabels.length - 2] + " and " + allLabels[allLabels.length - 1];
+
+      result = "This image contains " + result;
+      _textToSpeech(result);
+      print(result);
+    }
+    print(recognitions);
+    return recognitions![0]["label"];
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (_counter == 0) setState(() {});
+
+    if (!controller.value.isInitialized) {
+      return Container();
+    }
+
+    return Scaffold(
+      appBar: AppBar(
+        backgroundColor: Colors.lime, // AppBar rengi yeşil yapıldı
+        title: Text(" AI assistant for kids"), // AI assistant for kids
+        centerTitle: true,
+      ),
+      body: Stack(
+        children: [
+          SizedBox(
+            width: MediaQuery.of(context).size.width,
+            height: MediaQuery.of(context).size.height,
+            child: CameraPreview(controller),
+          ),
+          Align(
+            alignment: Alignment.topCenter,
+            child: Container(
+              decoration: BoxDecoration(
+                color: Colors.black.withOpacity(0.5),
+                borderRadius: BorderRadius.circular(8),
+              ),
+              padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 16),
+              child: Text(
+                _showedText,
+                style: TextStyle(
+                  color: Colors.white,
+                  fontWeight: FontWeight.bold,
+                  fontSize: 18,
+                ),
+              ),
+            ),
+          ),
+          Align(
+            alignment: Alignment.centerRight,
+            child: GestureDetector(
+              onTap: () {
+                Navigator.pushNamed(context, 'developers_notes');
+              },
+              child: Container(
+                padding: EdgeInsets.all(8),
+                decoration: BoxDecoration(
+                  color: Colors.green,
+                  shape: BoxShape.circle,
+                ),
+                child: Icon(
+                  Icons.arrow_forward,
+                  color: Colors.white,
+                ),
+              ),
+            ),
+          ),
+        ],
+      ),
+      floatingActionButton: FloatingActionButton(
+        backgroundColor: Colors.green, // Buton arka plan rengi yeşil yapıldı
+        onPressed: () async {
+          String out = await runModel(2);
+        },
+        child: Icon(Icons.speaker), // Konuşma ikonu
+      ),
+      floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
+    );
+  }
+
+  void _textToSpeech(String txt) async {
+    await flutterTts.setLanguage("en-US");
+    await flutterTts.setPitch(1);
+    await flutterTts.speak(txt);
+  }
+}
