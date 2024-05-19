@@ -1,5 +1,6 @@
 # Mom, Dad What Is That?
 
+# USE DART VERSION 3.2.2 FOR USING THIS PROJECT BECAUSE TENSORFLOW IS REQUESTION OLD VERSION OF DART. 
 ![App Logo](android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 ## Overview
