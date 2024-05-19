@@ -1,7 +1,7 @@
 # Mom, Dad What Is That?
 
 # USE DART VERSION 3.2.2 FOR USING THIS PROJECT BECAUSE TENSORFLOW IS REQUESTION OLD VERSION OF DART. 
-# THIS APP IS CAPABLE OF DETECTING 1000 DIFFERENT TYPES OF OBJECTS. You can find this objects at
+# THIS APP IS CAPABLE OF DETECTING 1000 DIFFERENT TYPES OF OBJECTS AND CAN EXPLAIN THEIR EXPLANATIONS IN TEXT AND VOICE. You can find this objects at
 # https://github.com/TahaErr/AI_App_Jam_61/blob/main/assets/objects_mobilenet.tflite
 ![App Logo](android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
@@ -17,8 +17,10 @@
 - **User-Friendly Interface**: Designed for ease of use by children and visually impaired individuals.
 
 ## YOUTUBE VIDEO
+https://www.youtube.com/watch?v=yCtE8UrsNdA
 
 ## APK LINK 
+
 https://drive.google.com/drive/folders/1TkTpxWCu-eMqmobJgyM5IsBZ62FBBxLr?usp=sharing
 
 ## Screenshots
