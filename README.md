@@ -18,8 +18,8 @@
 ![Screenshot 2](assets/2.jpeg)
 ![Screenshot 3](assets/3.jpeg)
 ![Screenshot 5](assets/5.jpeg)
-![Screenshot 6](assets/6.jpeg)
 ![Screenshot 7](assets/7.jpeg)
+![Screenshot 6](assets/6.jpeg)
 
 ## Warnings and errors you may encounter
 #  Despite these warnings on 19.05.2024, the application works properly, but since TF litle support has been withdrawn by Google, the long-term durability of such applications has a question mark.
