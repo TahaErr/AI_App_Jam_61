@@ -17,7 +17,6 @@
 ![Screenshot 1](assets/1.jpeg)
 ![Screenshot 2](assets/2.jpeg)
 ![Screenshot 3](assets/3.jpeg)
-![Screenshot 4](assets/4.jpeg)
 ![Screenshot 5](assets/5.jpeg)
 ![Screenshot 6](assets/6.jpeg)
 ![Screenshot 7](assets/7.jpeg)
