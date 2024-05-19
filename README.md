@@ -14,7 +14,6 @@
 - **User-Friendly Interface**: Designed for ease of use by children and visually impaired individuals.
 
 ## Screenshots
-![Screenshot 8](assets/8.mp4)
 ![Screenshot 1](assets/1.jpeg)
 ![Screenshot 2](assets/2.jpeg)
 ![Screenshot 3](assets/3.jpeg)
@@ -23,18 +22,39 @@
 ![Screenshot 6](assets/6.jpeg)
 ![Screenshot 7](assets/7.jpeg)
 
-## Installation
 
-### Prerequisites
 
-- Flutter SDK
-- Android Studio or Xcode (for iOS development)
-- An Android or iOS device or emulator
+## PUBSPEC
 
-### Steps
+name: MDWT
+description: Mom, dad what is that?
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  camera: ^0.9.8+1
+  lottie: ^2.4.0
+  image: ^3.2.0
+  google_mlkit_image_labeling:
+  tflite_flutter: ^0.9.0
+  tflite: ^1.1.2
+  flutter_tts: ^3.6.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
 
